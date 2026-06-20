@@ -1,4 +1,15 @@
 # Git Notes - Personal Cheat Sheet
+<img width="827" height="857" alt="Screenshot 2026-06-21 021741" src="https://github.com/user-attachments/assets/de20fa5d-90c9-43f4-9c2f-b92e30c408d4" />
+<img width="807" height="621" alt="Screenshot 2026-06-21 021733" src="https://github.com/user-attachments/assets/e554b2eb-9ec0-4f24-aab0-4b45dc3ba910" />
+<img width="925" height="1056" alt="Screenshot 2026-06-21 021712" src="https://github.com/user-attachments/assets/d6f6fb44-b6fe-4675-b3e5-7530de00bf69" />
+<img width="911" height="701" alt="Screenshot 2026-06-21 021439" src="https://github.com/user-attachments/assets/b21081e2-63a6-4d48-8b59-584a30f9941b" />
+<img width="876" height="845" alt="Screenshot 2026-06-21 021429" src="https://github.com/user-attachments/assets/15e993f2-f213-49d3-bc56-2a380baa85fb" />
+<img width="686" height="638" alt="Screenshot 2026-06-21 021422" src="https://github.com/user-attachments/assets/29963689-dd35-4b32-adc9-ce9bc9ce9eca" />
+<img width="742" height="385" alt="Screenshot 2026-06-21 014809" src="https://github.com/user-attachments/assets/70e2f95f-bbe5-43b9-91e5-ca543ec7ece2" />
+<img width="953" height="522" alt="Screenshot 2026-06-21 013027" src="https://github.com/user-attachments/assets/c84334d5-030d-4ccd-91d1-465790beae4b" />
+<img width="966" height="791" alt="Screenshot 2026-06-21 012131" src="https://github.com/user-attachments/assets/1b825283-c870-4cc6-a888-94ee2b5c92de" />
+<img width="927" height="780" alt="Screenshot 2026-06-21 011916" src="https://github.com/user-attachments/assets/eea31516-64cc-4dbf-97ae-01e8965ad863" />
+<img width="1200" height="623" alt="Screenshot 2026-06-21 011853" src="https://github.com/user-attachments/assets/db40e35d-27af-4634-a863-1295ae40b79e" />
 
 ## 1. Git Areas
 
