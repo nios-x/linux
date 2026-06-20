@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026, 04_10_19 PM" src="https://github.com/user-attachments/assets/15964311-aef5-4d1e-973e-df1d96e04dc8" />
 # LVM Lab on VirtualBox
 
 ## Environment
